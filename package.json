@@ -1,0 +1,19 @@
+{
+  "name": "lxcloud-blog",
+  "version": "1.0.0",
+  "description": "博客静态资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/52Lxcloud/blog.git"
+  },
+  "author": "lxcloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/52Lxcloud/blog/issues"
+  },
+  "homepage": "https://github.com/52Lxcloud/blog#readme"
+}
