@@ -1,6 +1,6 @@
 {
   "name": "lxcloud-blog",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "博客静态资源",
   "main": "index.js",
   "scripts": {
